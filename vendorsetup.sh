@@ -1,0 +1,3 @@
+add_lunch_combo cm_HWPLK-user
+add_lunch_combo cm_HWPLK-userdebug
+add_lunch_combo cm_HWPLK-eng
